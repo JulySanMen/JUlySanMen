@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**JulySanMen/JUlySanMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hola, soy Julieta 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bienvenido a mi perfil de GitHub. Aquí puedes encontrar mis proyectos en desarrollo y varisa cosas mas.
+
+## 🚀 Proyectos Destacados
+- 
+- aun no 
+
+## 🛠️ Tecnologías que Uso
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
+- [Email](sanchezmendozajulieta@gmail.com)
