@@ -10,4 +10,4 @@ Bienvenido a mi perfil de GitHub. Aquí puedes encontrar mis proyectos en desarr
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
-- [Email] sanchezmendozajulieta@gmail.com
+- Email  sanchezmendozajulieta@gmail.com
