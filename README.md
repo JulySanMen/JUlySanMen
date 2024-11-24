@@ -2,8 +2,9 @@
 
 # 👋 Hola, soy Julieta 
 
-Bienvenido a mi perfil de GitHub
-Soy estudiante aprendiendo cada dia un poco mas 
+Bienvenido a mi perfil de GitHub 
+
+* Soy estudiante aprendiendo cada dia un poco mas 
 
 ## 🛠️ Tecnologías 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
