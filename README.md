@@ -6,8 +6,8 @@ Bienvenido a mi perfil de GitHub
 
 ## 🌱 Acerca de mí
 
-✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
-💻 Me encanta explorar y trabajar :)
+- ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
+- 💻 Me encanta explorar y trabajar :)
 
 ## 🛠️ Tecnologías 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
