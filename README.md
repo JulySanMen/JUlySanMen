@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Julieta 
 
-Bienvenido a mi perfil de GitHub 
+Bienvenido a mi perfil :3
 
 ## 🌱 Acerca de mí
 
