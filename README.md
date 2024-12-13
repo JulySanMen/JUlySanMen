@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Julieta 
 
-Bienvenido a mi perfil :3
+Bienvenido a mi perfil
 
 ## 🌱 Acerca de mí
 
