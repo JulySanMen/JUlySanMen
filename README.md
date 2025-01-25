@@ -1,8 +1,9 @@
 
 
-# 👋 Hola, soy Julieta 
+# 👋 Hola, compañero
 
 Bienvenido a mi perfil
+soy July 
 
 ## 🌱 Acerca de mí
 
