@@ -1,6 +1,6 @@
 
 
-# 👋 Hola, compañero
+# 👋 Hola
 
 Bienvenido a mi perfil
 soy July 
