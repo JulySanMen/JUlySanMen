@@ -3,9 +3,9 @@
 # 👋 Hola
 
 Bienvenido a mi perfil
-soy July  estudiante de Ingenieri en Sistemas Computacionales 
+soy July
 
-## 🌱 Acerca de mí
+## 🌱 Acerca de mi
 
 - ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
 - 💻 Me gusta aprender, explorar y trabajar :)
