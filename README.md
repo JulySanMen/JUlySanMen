@@ -3,7 +3,7 @@
 # 👋 Hola
 
 Bienvenido a mi perfil
-soy July 
+soy July  estudiante de Ingenieri en Sistemas Computacionales 
 
 ## 🌱 Acerca de mí
 
