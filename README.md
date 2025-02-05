@@ -2,9 +2,6 @@
 
 # 👋 Hola
 
-Bienvenido a mi perfil
-soy July
-
 ## 🌱 Acerca de mi
 
 - ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
@@ -19,3 +16,5 @@ soy July
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
 - sanchezmendozajulieta@gmail.com
+
+
