@@ -4,8 +4,8 @@
 
 ## 🌱 Acerca de mi
 
-- ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
 - 💻 Me gusta aprender, explorar y trabajar :)
+- ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
 
 ## 🛠️ Tecnologías 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
