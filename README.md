@@ -2,8 +2,6 @@
 
 # 👋 Hola
 
-## 🌱 Acerca de mi
-
 - 💻 Me gusta aprender, explorar y trabajar :)
 - ✨ Soy estudiante apasionada por la tecnología y el aprendizaje.
 
