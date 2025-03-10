@@ -2,7 +2,7 @@
 
 # 👋 Hola
 
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 - 💻 Me gusta aprender, explorar y trabajar :)
 - ✨ Soy estudiante apasionada por la tecnología y el aprendizaje
 
