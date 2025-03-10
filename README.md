@@ -2,6 +2,7 @@
 
 # 👋 Hola
 
+[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 - 💻 Me gusta aprender, explorar y trabajar :)
 - ✨ Soy estudiante apasionada por la tecnología y el aprendizaje
 
