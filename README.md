@@ -3,17 +3,14 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-- 💻 Me gusta aprender, explorar y trabajar :)
-- ✨ Soy estudiante apasionada por la tecnología y el aprendizaje
-
 <!-- Banner (reemplaza con la URL de tu banner cuando lo subas) -->
 <p align="center">
   <img src="https://github.com/JulySanMen/JulySanMen/assets/YOUR-BANNER-NAME.png" alt="Julio Sánchez Mendoza Banner" width="100%">
 </p>
 
-# ¡Hola! Soy Julio Sánchez Mendoza
+# ¡Hola! Soy Julieta Sánchez Mendoza
 
-**Ingeniero de Software & Analista de Datos**  
+**Ingeniera de Software & Analista de Datos**  
 Apasionado por la tecnología, la programación y la resolución de problemas mediante soluciones innovadoras. Siempre en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente.
 
 ---
@@ -52,8 +49,8 @@ Apasionado por la tecnología, la programación y la resolución de problemas me
 ## ¿Dónde encontrarme?
 
 - GitHub: [@JulySanMen](https://github.com/JulySanMen)
-- Correo: *[tu_correo@ejemplo.com]* (opcional)
-- LinkedIn: *[tu perfil si tienes]*
+- Correo: *[sanchezmendozajulieta@gmail.com]*
+- LinkedIn: *[https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]*
 
 ---
 
@@ -61,15 +58,5 @@ Apasionado por la tecnología, la programación y la resolución de problemas me
   <i>Siempre aprendiendo. Siempre construyendo.</i>
 </p>
 
-
-## 🛠️ Tecnologías 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
-
-
-## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
-- sanchezmendozajulieta@gmail.com
 
 
