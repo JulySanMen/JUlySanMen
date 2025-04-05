@@ -5,7 +5,7 @@
 
 <!-- Banner (reemplaza con la URL de tu banner cuando lo subas) -->
 <p align="center">
-  <img src="https://github.com/JulySanMen/JulySanMen/assets/YOUR-BANNER-NAME.png" alt="Julio Sánchez Mendoza Banner" width="100%">
+  <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="100%">
 </p>
 
 # ¡Hola! Soy Julieta Sánchez Mendoza
@@ -50,7 +50,7 @@ Apasionado por la tecnología, la programación y la resolución de problemas me
 
 - GitHub: [@JulySanMen](https://github.com/JulySanMen)
 - Correo: *[sanchezmendozajulieta@gmail.com]*
-- LinkedIn: *[https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]*
+- LinkedIn: *[Julieta Sanchez Mendoza]*
 
 ---
 
