@@ -8,7 +8,7 @@
   <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="50%">
 </p>
 
-# ¡Hola! Soy Julieta Sánchez Mendoza
+# Soy Julieta Sánchez Mendoza
 
 **Ingeniera de Software & Analista de Datos**  
 Apasionado por la tecnología, la programación y la resolución de problemas mediante soluciones innovadoras. Siempre en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente.
