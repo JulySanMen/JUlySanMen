@@ -1,11 +1,11 @@
 
 # 👋 Hola, Bienvenido 
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 <p align="center">
-  <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="100%">
+  <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="50%">
 </p>
 
 # ¡Hola! Soy Julieta Sánchez Mendoza
