@@ -10,8 +10,8 @@
 
 # Soy Julieta Sánchez Mendoza
 
-**Ingeniera de Software & Analista de Datos**  
-Apasionado por la tecnología, la programación y la resolución de problemas mediante soluciones innovadoras. Siempre en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente.
+**Ingeniera de Software**  
+Apasionada por la tecnología, la programación y la resolución de problemas mediante soluciones innovadoras. Siempre en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente.
 
 ---
 
