@@ -40,7 +40,6 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
 
 ## Proyectos destacados
 
-- **[Seven](https://github.com/JulySanMen/Seven):** Sistema distribuido basado en microservicios para la gestión de proyectos con metodología SCRUM.
 - **Cuestionario Honey-Alonso:** App en Flask para evaluar estilos de aprendizaje y graficar resultados personalizados.
 - **Monitor remoto estilo TeamViewer:** Software completo para observación y control de equipos a distancia, con funcionalidades de red y seguridad.
 
