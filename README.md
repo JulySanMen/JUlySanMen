@@ -43,7 +43,7 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
 - **Cuestionario Honey-Alonso:** App en Flask para evaluar estilos de aprendizaje y graficar resultados personalizados.
 ---
 
-## ¿Dónde encontrarme?
+## ¿Dónde encontrarme? 
 
 - GitHub: [@JulySanMen](https://github.com/JulySanMen)
 - Correo: *[sanchezmendozajulieta@gmail.com]*
