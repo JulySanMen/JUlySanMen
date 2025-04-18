@@ -38,10 +38,7 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
 </p>
 ---
 
-## Proyectos destacados
 
-- **Cuestionario Honey-Alonso:** App en Flask para evaluar estilos de aprendizaje y graficar resultados personalizados.
----
 
 ## ¿Dónde encontrarme? 
 
