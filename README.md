@@ -20,7 +20,6 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
 - **Carrera:** Estudiante de Ingeniería en Sistemas Computacionales  
 - **Intereses:** Inteligencia Artificial, Ciencia de Datos, Desarrollo Web y Seguridad Informática  
 - **Herramientas favoritas:** Python, Flask, Java, Docker, MySQL, Git & GitHub  
-- **Metodologías:** SCRUM, integración de microservicios y arquitectura distribuida  
 
 ---
 
