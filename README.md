@@ -46,7 +46,7 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
 ---
 
 <p align="center">
-  <i>Siempre aprendiendo. Siempre construyendo.</i>
+  <i>"Siempre aprendiendo. Siempre construyendo."</i>
 </p>
 
 
