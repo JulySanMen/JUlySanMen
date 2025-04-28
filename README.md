@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="70%" align="cener">
+  <img src="https://github.com/JulySanMen/JUlySanMen/blob/main/assets/banner.jpg" alt="Julieta Sánchez Mendoza Banner" width="70%">
 </p>
 
 # Soy Julieta Sánchez Mendoza
