@@ -36,7 +36,7 @@ Apasionada por la tecnología, la programación y la resolución de problemas me
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-
+---
 
 ## ¿Dónde encontrarme? 
 
