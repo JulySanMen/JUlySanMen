@@ -14,7 +14,7 @@
 
 Apasionada por la tecnología, la programación y la resolución de problemas mediante soluciones innovadoras. Siempre en búsqueda de nuevos desafíos que me permitan crecer profesional y personalmente.
 
----
+--- 
 
 ## Sobre mí
 
